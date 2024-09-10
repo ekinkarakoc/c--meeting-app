@@ -8,5 +8,14 @@ namespace MeetingApp.Contollers
         {
             return View();
         }
+
+        public IActionResult Apply()
+        {
+            return View();
+        }
+        public IActionResult List()
+        {
+            return View();
+        }
     }
 }

@@ -25,3 +25,4 @@ C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\ref\MeetingApp.dll
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cache
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
