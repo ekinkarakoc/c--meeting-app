@@ -10,14 +10,6 @@ C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.AssemblyInfo.cs
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.csproj.CoreCompileInputs.cache
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MeetingApp.props
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MeetingApp.props
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MeetingApp.props
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\scopedcss\bundle\MeetingApp.styles.css
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.dll
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\refint\MeetingApp.dll
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.pdb
@@ -26,3 +18,11 @@ C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\ref\Meeting
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cache
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cs
 C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MeetingApp.props
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MeetingApp.props
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MeetingApp.props
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ekinkarakoc\Desktop\C# Projects\MeetingApp\obj\Debug\net8.0\scopedcss\bundle\MeetingApp.styles.css

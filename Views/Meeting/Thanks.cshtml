@@ -1,0 +1,21 @@
+﻿@using MeetingApp.Models
+@model UserInfo
+
+<main class="text-center">
+    <h1 class="h4">Toplantı Özeti</h1>
+
+
+    @if(Model.WillAttend == true)
+    {
+        <p>Teşekkürler @Model.Name, toplantıya sizinle birlikte 20 kişi katılıyor</p>
+        <a class="btn btn-sm btn-outline-primary" href="#">Katılımcıları Listele</a>
+    }
+    else
+    {
+        <p> @Model.Name, Katılmadığınızdan dolayı üzgünüz</p>
+        <a class="btn btn-sm btn-outline-primary" href="/meeting/apply">Başvuru Formu</a>
+
+    }
+    
+
+</main>
